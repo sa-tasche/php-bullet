@@ -15,4 +15,3 @@ before_script:
 
 # Script to run tests
 script: ./vendor/bin/phpunit
-
